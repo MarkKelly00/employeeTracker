@@ -6,7 +6,7 @@
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. This app is particularly helpful with the ability to filter employees by gender, name, and location.
 
 ## Example
-* Deployed Link - 
+* Deployed Link - https://nameless-escarpment-69152.herokuapp.com/
 ![img](/public/img/example.png)
 
 
